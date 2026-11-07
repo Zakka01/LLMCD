@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by zahrabar.*
+
 
 # Call Me Maybe — LLM Function Calling with Constrained Decoding
 
